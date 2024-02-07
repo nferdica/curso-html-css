@@ -33,5 +33,5 @@ No prior programming or design knowledge is required to follow along with this c
 Contributions are welcome! If you find any errors in the materials or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## Contact
-If you have any questions or need additional support, feel free to contact me through [Beacons](beacons.ai/nferdica).
+If you have any questions or need additional support, feel free to contact me through [Beacons](https://beacons.ai/nferdica).
 
